@@ -10,9 +10,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Add database context
 builder.Services.AddDbContext<BowlingLeagueContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("BowlingConnection")));
 
+// Add CORS
 builder.Services.AddCors();
 
 var app = builder.Build();
@@ -24,6 +26,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// Cors to connect to React app
 app.UseCors(x => x.WithOrigins("http://localhost:3001"));
 
 app.UseHttpsRedirection();

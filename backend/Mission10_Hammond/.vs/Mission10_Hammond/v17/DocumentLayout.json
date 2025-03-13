@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Trey\\source\\repos\\Mission10_Hammond\\backend\\Mission10_Hammond\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C789F5C4-C83A-4780-B20C-8329205D2546}|Mission10_Hammond\\Mission10_Hammond.csproj|c:\\users\\trey\\source\\repos\\mission10_hammond\\backend\\mission10_hammond\\mission10_hammond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C789F5C4-C83A-4780-B20C-8329205D2546}|Mission10_Hammond\\Mission10_Hammond.csproj|solutionrelative:mission10_hammond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C789F5C4-C83A-4780-B20C-8329205D2546}|Mission10_Hammond\\Mission10_Hammond.csproj|c:\\users\\trey\\source\\repos\\mission10_hammond\\backend\\mission10_hammond\\mission10_hammond\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C789F5C4-C83A-4780-B20C-8329205D2546}|Mission10_Hammond\\Mission10_Hammond.csproj|solutionrelative:mission10_hammond\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C789F5C4-C83A-4780-B20C-8329205D2546}|Mission10_Hammond\\Mission10_Hammond.csproj|c:\\users\\trey\\source\\repos\\mission10_hammond\\backend\\mission10_hammond\\mission10_hammond\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C789F5C4-C83A-4780-B20C-8329205D2546}|Mission10_Hammond\\Mission10_Hammond.csproj|solutionrelative:mission10_hammond\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Mission10_Hammond\\backend\\Mission10_Hammond\\Mission10_Hammond\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Mission10_Hammond\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Mission10_Hammond\\backend\\Mission10_Hammond\\Mission10_Hammond\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Mission10_Hammond\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T00:11:07.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BowlingController.cs",
-              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Mission10_Hammond\\backend\\Mission10_Hammond\\Mission10_Hammond\\Controllers\\BowlingController.cs",
-              "RelativeDocumentMoniker": "Mission10_Hammond\\Controllers\\BowlingController.cs",
-              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Mission10_Hammond\\backend\\Mission10_Hammond\\Mission10_Hammond\\Controllers\\BowlingController.cs",
-              "RelativeToolTip": "Mission10_Hammond\\Controllers\\BowlingController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvykAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:14:01.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Trey\\source\\repos\\Mission10_Hammond\\backend\\Mission10_Hammond\\Mission10_Hammond\\Program.cs",
-              "RelativeDocumentMoniker": "Mission10_Hammond\\Program.cs",
-              "ToolTip": "C:\\Users\\Trey\\source\\repos\\Mission10_Hammond\\backend\\Mission10_Hammond\\Mission10_Hammond\\Program.cs",
-              "RelativeToolTip": "Mission10_Hammond\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:12:23.62Z",
-              "EditorCaption": ""
             }
           ]
         }
